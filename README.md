@@ -1,1 +1,2 @@
-# C
+# C program
+C programing course.
